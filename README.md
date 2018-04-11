@@ -1,4 +1,4 @@
-# 2D-Graphic-simulation-using-OpenGL
+# Domino-2D-Graphic-simulation-using-OpenGL
 Nume student: Vlad Gabriel
 Grupa: 254
 Anul: 2
